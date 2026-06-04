@@ -1,0 +1,38 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "good-team",
+  "description": "AI automation tools for creators and small businesses by Whim on Vim.",
+  "owner": {
+    "name": "whimCrouwel"
+  },
+  "plugins": [
+    {
+      "name": "good-team",
+      "description": "AI automation tools for creators and small businesses.",
+      "category": "development",
+      "homepage": "https://github.com/whimCrouwel/good-team",
+      "author": {
+        "name": "whimCrouwel"
+      },
+      "source": {
+        "source": "github",
+        "repo": "whimCrouwel/good-team",
+        "sha": "1c34027b97d2b930fba26bb0bd0831b8496c0cbf"
+      }
+    },
+    {
+      "name": "swarm",
+      "description": "Turn any agenda into an autonomous agent team. A CEO decomposes the work, you approve the plan, then workers execute in periodic batches — building a persistent company folder that grows smarter over time.",
+      "category": "productivity",
+      "homepage": "https://github.com/whimCrouwel/swarm",
+      "author": {
+        "name": "whimCrouwel"
+      },
+      "source": {
+        "source": "github",
+        "repo": "whimCrouwel/swarm",
+        "sha": "e7a23bc99d2874544cc157acf0b09fa2f5626290"
+      }
+    }
+  ]
+}
